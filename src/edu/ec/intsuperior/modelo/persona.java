@@ -103,9 +103,9 @@ public class persona {
                + "Nombre: "+getNombre1()+" "+getNombre2()+" "+getApellido1()+" "+getApellido2()+"\n"
                + "Direccion: "+getDireccion()+"\n"
                + "Email: "+getEmail()"\n"
-               + "telefono: "+getTelefono();
+               + "telefono: "+getTelefono()
                            
-    }
+    
   
   
   
